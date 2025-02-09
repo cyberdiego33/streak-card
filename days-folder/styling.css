@@ -20,10 +20,14 @@ body {
     text-align: center;
     font-size: 14px;
 }
+.tap {
+    font-size: 12px;
+}
 .links p {
     font-size: 18px;
     font-weight: 600;
 }
+.tap,
 .links p,
 .comment{
     margin: .5rem;
